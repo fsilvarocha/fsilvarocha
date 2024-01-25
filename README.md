@@ -1,4 +1,5 @@
 ## Olá! Sou o Fabricio Silva | Bem Vindo ao meu GitHub
+## Hi! I am Fabricio Silva | Welcome to my GitHub
 <div align="center">
   <a href="https://github.com/fsilvarocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsilvarocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
